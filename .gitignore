@@ -1,1 +1,7 @@
 .workspace
+
+node_modules
+
+dist
+
+config.bat
